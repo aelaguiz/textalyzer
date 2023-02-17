@@ -1,0 +1,5 @@
+.git
+venv
+.pyenv
+.DS_Store
+*.jpg
